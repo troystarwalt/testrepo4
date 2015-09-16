@@ -19,3 +19,13 @@ article {
 	text-align: center;
 }
 
+footer {
+	font-family: helvetica;
+	font-size:10px;
+	text-align: left;
+}
+
+a:hover {
+	background-color: pink;
+	font-size: 30px;
+}
