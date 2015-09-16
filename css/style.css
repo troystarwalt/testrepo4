@@ -8,6 +8,11 @@
 h1 {
 	font-style: underline;
 	text-align: right;
+	padding-right: 5px;
+}
+
+nav {
+	padding-left: 5px;
 }
 
 section {
