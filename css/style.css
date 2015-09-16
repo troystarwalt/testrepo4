@@ -1,0 +1,13 @@
+#wrapper {
+	margin: 0 auto;
+	width: 800px;
+}
+
+h1 {
+	font-style: underline;
+	text-align: right;
+}
+
+section {
+	width: 0 auto;
+}
