@@ -16,6 +16,20 @@ nav {
 	height: 25px;
 }
 
+ul {
+	padding: 0;
+}
+
+nav a:hover {
+	background-color: pink;
+	font-size: 20px;
+}
+
+nav ul li {
+	display: inline;
+	list-style-type: none;
+}
+
 section {
 	width: 250px;
 	border: 1px blue solid;
@@ -33,8 +47,5 @@ footer {
 	text-align: left;
 }
 
-nav a:hover {
-	background-color: pink;
-	font-size: 20px;
-}
+
 
